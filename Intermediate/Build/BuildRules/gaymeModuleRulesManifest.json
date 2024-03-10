@@ -1,0 +1,10 @@
+{
+	"SourceFiles": [
+		"C:\\Users\\singh\\OneDrive\\Desktop\\test\\Intermediate\\Source\\gayme.Build.cs",
+		"C:\\Users\\singh\\OneDrive\\Desktop\\test\\Intermediate\\Source\\gayme.Target.cs",
+		"C:\\Users\\singh\\OneDrive\\Desktop\\test\\Intermediate\\Source\\gaymeClient.Target.cs",
+		"C:\\Users\\singh\\OneDrive\\Desktop\\test\\Intermediate\\Source\\gaymeEditor.Target.cs",
+		"C:\\Users\\singh\\OneDrive\\Desktop\\test\\Intermediate\\Source\\gaymeServer.Target.cs"
+	],
+	"EngineVersion": "5.3.2"
+}
